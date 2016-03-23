@@ -1,0 +1,27 @@
+C:\Users\ASUS\Desktop\İkiNci DöNEM\Programlama 2\visual\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ASUS\Desktop\İkiNci DöNEM\Programlama 2\visual\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ASUS\Desktop\İkiNci DöNEM\Programlama 2\visual\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ASUS\Desktop\İkiNci DöNEM\Programlama 2\visual\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\İkiNci DöNEM\Programlama 2\visual\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ASUS\Desktop\İkiNci DöNEM\Programlama 2\visual\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\İkiNci DöNEM\Programlama 2\visual\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\İkiNci DöNEM\Programlama 2\visual\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ASUS\Desktop\İkiNci DöNEM\Programlama 2\visual\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ASUS\Desktop\Melih Korkmaz-2010010206054\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ASUS\Desktop\Melih Korkmaz-2010010206054\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ASUS\Desktop\Melih Korkmaz-2010010206054\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ASUS\Desktop\Melih Korkmaz-2010010206054\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ASUS\Desktop\Melih Korkmaz-2010010206054\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ASUS\Desktop\Melih Korkmaz-2010010206054\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Melih Korkmaz-2010010206054\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ASUS\Desktop\Melih Korkmaz-2010010206054\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Melih Korkmaz-2010010206054\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Desktop Güncel\Melih Korkmaz-2010010206054\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Desktop Güncel\Melih Korkmaz-2010010206054\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Desktop Güncel\Melih Korkmaz-2010010206054\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Desktop Güncel\Melih Korkmaz-2010010206054\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Desktop Güncel\Melih Korkmaz-2010010206054\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Desktop Güncel\Melih Korkmaz-2010010206054\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Desktop Güncel\Melih Korkmaz-2010010206054\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Desktop Güncel\Melih Korkmaz-2010010206054\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Desktop Güncel\Melih Korkmaz-2010010206054\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
